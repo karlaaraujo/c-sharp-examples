@@ -6,7 +6,8 @@ Programas em C# desenvolvidos para servirem de exemplo para a apresentação de 
 disciplina de Linguagem de Programação do curso de graduação de Sistemas de Informação, do Instituto Federal de Alagoas
 
 
-# Instalação
+**Instalação**
+===============
 
 Existem algumas maneiras de executar código em C#, como por exemplo, por meio de linha de comando utilizando o compilador csc.exe que vem com o SDK do .NET e essa será a maneira utilizada nos próximos passos:
 
@@ -32,15 +33,15 @@ A . NET Core é uma plataforma para desenvolvimento de aplicações criada e man
 1. Instale as extensões: C# (Microsoft) e como sugestão temos a extensão C# Extensions (jchannon) pra facilitar na hora de codar, pois indo no arquivo e clicando com botão direito do mouse temos as opções de sintaxe prontas.
     - Veja:
         
-        ![Extensão oficial ](c%23.jpg)
+        ![Extensão oficial ](https://i.stack.imgur.com/MRbxU.png)
         
         Extensão oficial 
         
-        ![Extensão a mais recomendada](extensions_c%23.jpg)
+        ![Extensão a mais recomendada](https://miro.medium.com/v2/resize:fit:1400/1*UDt5DsnR9DsgolRS1jGueQ.png)
         
         Extensão a mais recomendada
         
-        ![Clica no botão esquerdo do mouse no arquivo e terá essas opções de sintaxe prontas](opcoes_extension_c%23.jpg)
+        ![Clica no botão esquerdo do mouse no arquivo e terá essas opções de sintaxe prontas](https://www.macoratti.net/21/01/vs_codext15.jpg)
         
         Clica no botão esquerdo do mouse no arquivo e terá essas opções de sintaxe prontas
         
@@ -56,5 +57,6 @@ A . NET Core é uma plataforma para desenvolvimento de aplicações criada e man
 ---
 
 Aqui está um link de guia básico como recomendação para configurar o Vs Code para aplicação com dotnet:
+-------------------------------------------------------------------------------------------------------
 
 [Como instalar e configurar o C# no Vs Code](https://youtu.be/S5HawDwjuUY)
