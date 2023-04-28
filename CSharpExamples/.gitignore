@@ -1,0 +1,44 @@
+# C# Project
+# ------------------------------
+
+# Build artifacts
+bin/
+obj/
+
+# User-specific settings
+*.suo
+*.user
+
+# NuGet packages
+packages/
+
+# Configuration files
+*.config
+
+# Visual Studio files
+*.vs/
+*.vssscc
+*.scc
+
+# Test Results
+TestResults/
+
+# Code coverage results
+*.coverage
+
+# Resharper files
+_resharper/
+
+# Other generated files
+_ReSharper*/
+[Tt]est[Rr]esult*/
+*.log
+*.bak
+*.cache
+*.pidb
+*.userprefs
+*.dbmdl
+
+# Ignore files that should not be committed
+Thumbs.db
+.DS_Store
