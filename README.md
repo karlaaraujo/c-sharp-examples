@@ -6,10 +6,7 @@ Programas em C# desenvolvidos para servirem de exemplo para a apresentação de 
 disciplina de Linguagem de Programação do curso de graduação de Sistemas de Informação, do Instituto Federal de Alagoas
 
 
-
 # Instalação
-
-# Instalação e execução de código em C#
 
 Existem algumas maneiras de executar código em C#, como por exemplo, por meio de linha de comando utilizando o compilador csc.exe que vem com o SDK do .NET e essa será a maneira utilizada nos próximos passos:
 
@@ -35,15 +32,15 @@ A . NET Core é uma plataforma para desenvolvimento de aplicações criada e man
 1. Instale as extensões: C# (Microsoft) e como sugestão temos a extensão C# Extensions (jchannon) pra facilitar na hora de codar, pois indo no arquivo e clicando com botão direito do mouse temos as opções de sintaxe prontas.
     - Veja:
         
-        ![Extensão oficial ](Instalac%CC%A7a%CC%83o%200ecdb1176c0a48f2944ca8df249f8899/Untitled.png)
+        ![Extensão oficial ](c%23.jpg)
         
         Extensão oficial 
         
-        ![Extensão a mais recomendada](Instalac%CC%A7a%CC%83o%200ecdb1176c0a48f2944ca8df249f8899/Untitled%201.png)
+        ![Extensão a mais recomendada](extensions_c%23.jpg)
         
         Extensão a mais recomendada
         
-        ![Clica no botão esquerdo do mouse no arquivo e terá essas opções de sintaxe prontas](Instalac%CC%A7a%CC%83o%200ecdb1176c0a48f2944ca8df249f8899/Untitled.jpeg)
+        ![Clica no botão esquerdo do mouse no arquivo e terá essas opções de sintaxe prontas](opcoes_extension_c%23.jpg)
         
         Clica no botão esquerdo do mouse no arquivo e terá essas opções de sintaxe prontas
         
