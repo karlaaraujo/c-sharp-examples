@@ -9,7 +9,6 @@ disciplina de Linguagem de Programação do curso de graduação em Sistemas de 
 
 
 ## Como executar
----
 
 Existem algumas maneiras de executar código em C#. Uma delas é por meio de linha de comando, utilizando o compilador csc.exe, incluído no SDK do .NET:
 
