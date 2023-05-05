@@ -16,7 +16,7 @@ namespace CSharpExemplos
             int segundos = tempoSegundos % 60;
 
             // imprime o tempo em horas, minutos e segundos
-            Console.WriteLine("O tempo é o equivalente a {0} horas, {1} minutos e {2} segundos.", horas, minutos, segundos);
+            Console.WriteLine("O tempo é o equivalente a: {0} horas, {1} minutos e {2} segundos.", horas, minutos, segundos);
         }
     }
 }
