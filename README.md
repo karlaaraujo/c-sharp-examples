@@ -42,6 +42,6 @@ Existem algumas maneiras de executar código em C#. Uma delas é por meio de lin
 	- ``NomeDoPrograma.exe`` ou ``./NomeDoPrograma.exe`` (PowerShell)
 
 
-## Sugestões de Leitura
+## Sugestões de Materiais
 
 - [Como instalar e configurar o C# no Vs Code](https://youtu.be/S5HawDwjuUY)
