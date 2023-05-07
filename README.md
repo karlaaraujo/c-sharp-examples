@@ -36,7 +36,7 @@ Existem algumas maneiras de executar código em C#. Uma delas é por meio de lin
 2. Compilar o código-fonte  
     - Abrir uma aba de terminal
     - Entrar no diretório CSharpExamples, que contém os arquivos .cs
-    - Executar ``csc /main:CSharpExamples.NomeClasse NomePrograma.cs``, substituindo NomeClasse e NomePrograma pelos respectivos nomes da classe e programa a serem executados.  
+    - Executar ``csc NomePrograma.cs``, substituindo NomePrograma pelo respectivo nome do programa a ser executado.  
     Esse comando cria um .exe no mesmo diretório em que foi executado.
 3. Executar o programa
 	- ``NomeDoPrograma.exe`` ou ``./NomeDoPrograma.exe`` (PowerShell)
