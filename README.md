@@ -7,6 +7,8 @@ discipline of the Information Systems undergraduate course, at the Federal Insti
 Códigos-fonte de programas em C# desenvolvidos para servirem de exemplo para a apresentação de Introdução ao C#, da 
 disciplina de Linguagem de Programação do curso de graduação em Sistemas de Informação, do Instituto Federal de Alagoas
 
+## Introdução ao C#
+Confira [aqui](https://swift-guan-b35.notion.site/C-37dd6626b2e94ce9812482463f1828a5) um documento contendo parte do conteúdo da apresentação.
 
 ## Como executar
 
